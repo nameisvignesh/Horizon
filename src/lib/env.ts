@@ -1,0 +1,7 @@
+
+export const ENV = {
+  WEATHER_API_KEY: '4c1e1a6ffe585e10cd6fe268e9bb43c8',
+  TIME_API_KEY: 'WT2VLFGWKUJK',
+  CLERK_PUBLISHABLE_KEY: 'pk_test_ZGVjaWRpbmctcGlnZW9uLTQ4LmNsZXJrLmFjY291bnRzLmRldiQ',
+  CLERK_SECRET_KEY: 'sk_test_GAOv1iHA8kKuZeSHR5fAYXLhPvefRq7U6lA228s5zN'
+};
